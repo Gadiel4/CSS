@@ -1,0 +1,23 @@
+p{
+    color: rgb(240, 236, 232);
+    background-color: rgba(189, 76, 24, 0.623);
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.item{
+    background-color: rgba(2, 255, 255, 0.521);
+}
+.parra1{
+    color:chartreuse;
+}
+.parra2{
+    color:darkred;
+}
+div{
+    background-color: rgba(255, 0, 0, 0.397);
+    position:absolute;
+    height: 400px;
+    width: 400px;
+}
