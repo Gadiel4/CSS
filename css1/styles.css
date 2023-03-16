@@ -1,0 +1,18 @@
+p{
+    color: orange;
+}
+
+div{
+    color: rgb(255,0,0);
+    
+}
+
+.caja1{
+    width: 250px;
+    height: 250px;
+    
+    /*background-color: rgba(255,0,0,0.5);
+    background-color: hsl(0, 80%, 45%);*/
+    background-color: hsla(0, 80%, 45%, 0.8);
+    position: absolute;
+}
